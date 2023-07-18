@@ -2,6 +2,10 @@
 
 A grid view that supports both swipe and tapping to select its items like ios Photos .  
 
+<video width="208" height="463" controls>
+  <source src="demo.mp4" type="video/mp4">
+</video>
+
 ## Getting Started
 
 #### Setup
