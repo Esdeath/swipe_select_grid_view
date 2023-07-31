@@ -1,7 +1,7 @@
 name: swipe_select_grid_view
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Esdeath/swipe_select_grid_view
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
