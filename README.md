@@ -2,7 +2,7 @@
 
 A grid view that supports both swipe and tapping to select its items like ios Photos .  
 
-[](demo.png)
+![Demo image](./demo.png)
 https://github.com/Esdeath/swipe_select_grid_view/assets/8644245/de63674f-621c-4c0b-8e9d-cba7c181e1b7
 
 
