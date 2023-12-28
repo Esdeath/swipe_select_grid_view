@@ -1,3 +1,4 @@
+import 'dart:html';
 import 'dart:math';
 
 ///The SelectionManager class is responsible for managing the selection state
